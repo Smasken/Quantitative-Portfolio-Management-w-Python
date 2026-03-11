@@ -8,4 +8,9 @@ dependencies = [
     "matplotlib>=3.10.8",
     "numpy>=2.4.3",
     "pandas>=3.0.1",
+    "qpsolvers>=4.10.0",
+    "scipy>=1.17.1",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
+    "yfinance>=1.2.0",
 ]
