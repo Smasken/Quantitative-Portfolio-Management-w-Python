@@ -1,0 +1,11 @@
+[project]
+name = "quantitative-portfolio-management-w-python"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "cvxpy>=1.8.1",
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.3",
+    "pandas>=3.0.1",
+]
